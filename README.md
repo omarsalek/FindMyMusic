@@ -1,2 +1,2 @@
 # FindMyMusic
-retrouver vos musiques préférés
+retrouver vos musiques préférées
